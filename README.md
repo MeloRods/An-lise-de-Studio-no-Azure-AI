@@ -1,6 +1,8 @@
 # An-lise-de-Studio-no-Azure-AI
 
-![image](https://github.com/user-attachments/assets/223adf4e-7bfc-4b55-8243-6cd43f1ee055)
+![image](https://github.com/user-attachments/assets/bc644fff-304c-4a95-83cd-80171f9d199a)
 
-//Review de hotel com muito sentimento negativo.
+
+//Azure AI identificou o idioma utilizado, sem precisar pré-determinar.
+
 
